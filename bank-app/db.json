@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Иван",
+      "lastName": "Сергеев",
+      "patronymic": "Сергеевич",
+      "birthDate": "1985-01-01",
+      "job": "БББ",
+      "cards": [
+        {
+          "id": 1,
+          "number": "1234567890123456",
+          "fullName": "IVAN SERGEEV",
+          "expDate": "12/24",
+          "cvc": "123"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "firstName": "Виктор",
+      "lastName": "Иванов",
+      "patronymic": "Александрович",
+      "birthDate": "1990-02-02",
+      "job": "ВВВ",
+      "cards": [
+        {
+          "id": 3,
+          "number": "1111222233334444",
+          "fullName": "VICTOR IVANOV",
+          "expDate": "10/23",
+          "cvc": "789"
+        }
+      ]
+    },
+    {
+      "id": "5606",
+      "firstName": "Сергей",
+      "lastName": "Иванов",
+      "patronymic": "Иванович",
+      "birthDate": "2024-07-03",
+      "job": "ААА",
+      "cards": [
+        {
+          "id": 0,
+          "number": "999 9999999",
+          "fullName": "SERGEI IVANOV",
+          "expDate": "10/24",
+          "cvc": "123"
+        }
+      ]
+    }
+  ]
+}
